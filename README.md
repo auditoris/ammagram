@@ -1,3 +1,3 @@
-# ammagram
+# Ammagram
 
 comming soon.
